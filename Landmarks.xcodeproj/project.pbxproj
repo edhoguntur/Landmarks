@@ -13,6 +13,7 @@
 		DACCD02029E5378B00BB6771 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DACCD01F29E5378B00BB6771 /* Preview Assets.xcassets */; };
 		DACCD02729E59F1F00BB6771 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACCD02629E59F1F00BB6771 /* CircleImage.swift */; };
 		DACCD02929E5A0F600BB6771 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACCD02829E5A0F600BB6771 /* MapView.swift */; };
+		DACCD02B29E5A4D000BB6771 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = DACCD02A29E5A4D000BB6771 /* landmarkData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		DACCD01F29E5378B00BB6771 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DACCD02629E59F1F00BB6771 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		DACCD02829E5A0F600BB6771 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		DACCD02A29E5A4D000BB6771 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 		DACCD01729E5378A00BB6771 /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
+				DACCD02A29E5A4D000BB6771 /* landmarkData.json */,
 				DACCD02629E59F1F00BB6771 /* CircleImage.swift */,
 				DACCD01A29E5378A00BB6771 /* ContentView.swift */,
 				DACCD01829E5378A00BB6771 /* LandmarksApp.swift */,
@@ -133,6 +136,7 @@
 			files = (
 				DACCD02029E5378B00BB6771 /* Preview Assets.xcassets in Resources */,
 				DACCD01D29E5378B00BB6771 /* Assets.xcassets in Resources */,
+				DACCD02B29E5A4D000BB6771 /* landmarkData.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

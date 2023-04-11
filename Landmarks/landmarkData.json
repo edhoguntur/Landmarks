@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Turtle Rock",
+        "category": "Rivers",
+        "city": "Twentynine Palms",
+        "state": "California",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "Turtle Rock is a rock formation in Joshua Tree National Park, California. This massive formation is located across from the parking lot from the entrance into Real Hidden Valley area in Joshua Tree National Park. The northwest face of Turtle Rock is several hundred feet long and works like a massive wall protecting a pleasant picnic area with trees, benches, and even bathrooms. On any weekend during the climbing season, you may see several climbing classes in progress under the trees and around many boulders strewn on the base of the northwest face. You will also run into families picnicking and children scrambling on smaller low angle rocks.",
+        "imageName": "turtlerock"
+    },
+    {
+        "name": "Silver Salmon Creek",
+        "category": "Lakes",
+        "city": "Port Alsworth",
+        "state": "Alaska",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "At Silver Salmon Creek Lodge Alaska bear viewing, other wildlife, landscape, and outdoor opportunities combine to offer visitors a true sense of Alaskan wilderness. Towering volcanic mountains form an immediate backdrop to the tidal marshes, streams and pristine salt-water bays which comprise the coastline of Lake Clark National Park.",
+        "imageName": "silversalmoncreek"
+    },
+    {
+        "name": "Chilkoot Trail",
+        "category": "Mountains",
+        "city": "Skagway",
+        "state": "Alaska",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Klondike Gold Rush National Historical Park",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "description": "Chilkoot Pass (el. 3,759 feet or 1,146 metres) is a high mountain pass through the Boundary Ranges of the Coast Mountains in the U.S. state of Alaska and British Columbia, Canada. It is the highest point along the Chilkoot Trail that leads from Dyea, Alaska to Bennett Lake, British Columbia. The Chilkoot Trail was long a route used by the Tlingit for trade. During the Klondike Gold Rush of the late 19th century, it was used by prospectors and packers to get through the mountains. During the gold rush, three aerial tramways and several surface hoists were constructed and operated briefly over the pass. When the White Pass and Yukon Route Railroad was built in neighboring White Pass, the Chilkoot Pass route fell out of favor with miners. The Pass and the Trail are administered by the national park services of the U.S. and Canada. On the B.C. side, it is administered as Chilkoot Trail National Historic Site.[1] On the Alaska side, it is one unit of the Klondike Gold Rush National Historical Park. In the summer of 1998, the Site and the Park united to form Klondike Gold Rush International Historical Park. Modern-day visitors can hike the 33-mile (53 km) trail after registering and paying a fee",
+        "imageName": "chilkoottrail"
+    },
+    {
+        "name": "St. Mary Lake",
+        "category": "Lakes",
+        "city": "Browning",
+        "state": "Montana",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "description": "Saint Mary Lake is the second-largest lake in Glacier National Park, in the U.S. state of Montana. Located on the east side of the park, Going-to-the-Sun Road parallels the lake along its north shore. At an elevation of 4,484 feet (1,367 m), Saint Mary Lake's waters are colder and lie almost 1,500 feet (460 m) higher in elevation than Lake McDonald, the largest lake in the park, which is located on the west side of the Continental Divide. Here, the great plains end and the Rocky Mountains begin in an abrupt 5,000-foot (1,500 m) elevation change, with Little Chief Mountain posing a formidable southern flank above the west end of the lake. The lake is 9.9 miles (15.9 km) long and 300 feet (91 m) deep with a surface area of 3,923 acres (15.88 km2). The waters of the lake rarely rise above 50 °F (10 °C) and are home to various species of trout. During the winter, the lake is often frozen over with ice up to 4 feet (1.2 m) thick. The opening scene in the 1980 Stanley Kubrick film The Shining was shot at Saint Mary Lake. Wild Goose Island rises a mere 14 feet (4.3 m) above the lake. The island is dwarfed by the lake and surrounding mountains, yet it is of one of the most frequently photographed locations along the Going-to-the-Sun Road.",
+        "imageName": "stmarylake"
+    },
+    {
+        "name": "Twin Lake",
+        "category": "Lakes",
+        "city": "Twin Lakes",
+        "state": "Alaska",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "Twin Lakes is a complex of two large lakes in Lake Clark National Park in the U.S. state of Alaska, near the northeast corner of Lake and Peninsula Borough. It contains a 6-mile-long (9.7 km) upper lake and a smaller 4-mile-long (6.4 km) lower lake, joined by a short connecting stream. The lakes outflow westward into the Chilikadrotna River (and eventually into the Mulchatna and Nushagak Rivers and Nushagak Bay). It is quite remote and unpopulated, except in the late summer as it is a popular hunting spot. The lake complex was the retirement home of naturalist Richard Proenneke (1916–2003), who spent most (1968–1998) of the last 35 years of his life living there in a log cabin he built by hand. (See One Man's Wilderness: An Alaskan Odyssey and Alone in the Wilderness). It is only reachable by air taxi via a float or a wheel plane.",
+        "imageName": "twinlake"
+    },
+    {
+        "name": "Lake McDonald",
+        "category": "Mountains",
+        "city": "West Glacier",
+        "state": "Montana",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "description": "Lake McDonald is the largest lake in Glacier National Park. It is located at 48°35′N 113°55′W in Flathead County in the U.S. state of Montana. Lake McDonald is approximately 10 miles (16 km) long, and over a mile (1.6 km) wide and 472 feet (130 m) deep, filling a valley formed by a combination of erosion and glacial activity. Lake McDonald lies at an elevation of 3,153 feet (961 m) and is on the west side of the Continental Divide. Going-to-the-Sun Road parallels the lake along its southern shoreline. The surface area of the lake is 6,823 acres (27.6 km2).The lake is home to numerous native species of trout, and other game fish. Catchable species include: westslope cutthroat trout, rainbow trout, bull trout (char), lake trout (char), Lake Superior whitefish, mountain whitefish, kokanee salmon (landlocked sockeye), and suckers. However, the lake is nutrient-poor and is not considered a prime fishing destination. Grizzly bears, black bear, moose, and mule deer are found in many places near the lake but are most common on the north shore. The lake is surrounded by a dense coniferous forest dominated by various species of spruce, fir, and larch.",
+        "imageName": "lakemcdonald"
+    },
+    {
+        "name": "Charley Rivers",
+        "category": "Rivers",
+        "city": "Eaking",
+        "state": "Alaska",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Charley Rivers National Preserve",
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "description": "The Charley River is an 88-mile (142 km) tributary of the Yukon River in the U.S. state of Alaska. Flowing generally northeast from the Mertie Mountains (named after geologist John Beaver Mertie, Jr.) in the northeastern part of the state, the river lies entirely within Yukon–Charley Rivers National Preserve. The Charley River enters the larger river downstream and 55 miles (89 km) northwest of Eagle. In 1980, the Charley River and all of its main tributaries became part of the National Wild and Scenic Rivers System. A total of 208 miles (335 km) was declared (wild) along the entire main stem as well as Copper, Bonanza, Hosford, Derwent, Flat-Orthmer, Crescent, and Moraine creeks. The Charley River watershed is forested chiefly with black spruce and white spruce. This general locus within the Yukon River catchment is the approximate westernmost limit of the black spruce, Picea mariana. The river forms part of the boundary between the Southeast Fairbanks and Yukon–Koyukuk census areas.",
+        "imageName": "charleyrivers"
+    },
+    {
+        "name": "Icy Bay",
+        "category": "Mountains",
+        "city": "Icy Bay",
+        "state": "Alaska",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Wrangell-St. Elias National Park and Preserve",
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "description": "Since 1900, several huge tidewater glaciers have retreated to form Icy Bay on the coast of Wrangell-St. Elias National Park and Preserve. The bay was formed by the rapid retreat of the Guyot, Yahtse, and Tyndall Glaciers. The protected, blue waters surrounded by spectacular glacial scenery and an abundance of wildlife are ideal for sea kayaking. Most kayakers access Icy Bay by chartering a small bush plane to drop them off at Kageet Point on the eastern edge of Icy Bay or Pt. Riou, located on Chugach Alaska Native Corporation land southeast of Icy Bay. Before flying into Pt. Riou, visitors should request permission by writing Chugach Alaska Corporation, 3800 Centerpoint Drive, Suite 1200, Anchorage, Alaska 99503. Access to Icy Bay is restricted to small bush planes only, so many parties use collapsible kayaks. There are air taxis in Yakutat who are approved to operate in the park, which you can find by visiting kayaking services. These air taxis fly planes that are capable of landing on the bush strip at Kageet Point, which is the most common point of access for Icy Bay kayakers. It's a raised beach strip, and makes for a lovely initial camping spot while you set up your gear. There are many bears throughout the area, but those using Icy Bay before you have been diligent in practicing proper food storage techniques and there have been no adverse human-bear interactions in recent years. Exercise proper caution as you would in bear country throughout Alaska. There are lodges in and around Yakutat that offer lodging and Alaska cuisine as well as guided kayaking, hiking, beach combing, wildlife photography, and fly fishing. There are many beach camping opportunities throughout the bay, but there are no officially designated camp sites. We ask that you pick areas that seem suitable to your needs, spread your use away from areas that show signs of use, and practice leave no trace of your camping when you depart.",
+        "imageName": "icybay"
+    },
+    {
+        "name": "Rainbow Lake",
+        "category": "Lakes",
+        "city": "Willow",
+        "state": "Alaska",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "State Recreation Area",
+        "coordinates": {
+            "longitude": -150.086103,
+            "latitude": 61.694334
+        },
+        "description": "The Rainbow Lake Trail provides access to one of the park's steepest passes, Bowan Pass, as well as deep blue Rainbow Lake. It is primarily a backpacker or advanced stock use trail, since it lies deep within the park and is accesed via several other trails. Primarily, it is part of the popular Rainbow-McAlester Lakes loop, and makes a beautiful fall destination for rugged hikers, or for those who enjoy getting away from it all and fishing.",
+        "imageName": "rainbowlake"
+    },
+    {
+        "name": "Hidden Lake",
+        "category": "Lakes",
+        "city": "Newhalem",
+        "state": "Washington",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "North Cascades National Park",
+        "coordinates": {
+            "longitude": -121.17799,
+            "latitude": 48.495442
+        },
+        "description": "Hidden Lake Peak is a joyous hike that begins in cool forests but quickly propels the hiker into vast, open meadows filled with wildflowers, then rocky slopes and heather, before ending at a steep rocky pinnacle with a historic fire lookout perched on top. It is a very popular day hike, but also makes a nice overnight backpack trip and is an access route for climbers headed off into the Eldorado and Triad area.",
+        "imageName": "hiddenlake"
+    },
+    {
+        "name": "Chincoteague",
+        "category": "Rivers",
+        "city": "Chincoteague",
+        "state": "Virginia",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Chincoteague National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "description": "Chincoteague (/ˌʃɪŋkəˈtiːɡ/ or /ˈʃɪŋkətiːɡ/) is a town in Accomack County, Virginia, U.S. The town includes the whole of Chincoteague Island and an area of adjacent water. The population was 2,941 at the 2010 census.[5] The town is known for the Chincoteague Ponies, although these are not actually on the island of Chincoteague but on nearby Assateague Island. These ponies and the annual Pony Penning Day are the subject of Marguerite Henry's 1947 children's book Misty of Chincoteague, which was made into the 1961 family film Misty, filmed on location.",
+        "imageName": "chincoteague"
+    },
+    {
+        "name": "Lake Umbagog",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "New Hampshire",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Umbagog Lake is a wilderness lake located in Coös County, New Hampshire, and Oxford County, Maine. It is one of the most pristine lakes in the state of New Hampshire. It lies in the towns of Errol, New Hampshire, and Upton, Maine, as well as the townships of Cambridge, New Hampshire, and Magalloway Plantation, Maine. The name Umbagog is properly pronounced with the stress on the second syllable (um-BAY-gog) and is said to come from the Abenaki word for 'shallow water'. Both 'Lake Umbagog' and 'Umbagog Lake' are commonly used and accepted when referring to the body of water.",
+        "imageName": "umbagog"
+    }
+]
