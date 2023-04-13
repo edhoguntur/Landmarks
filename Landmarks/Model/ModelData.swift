@@ -6,12 +6,16 @@
 //
 
 import Foundation
+import Combine
 
-/* Mendeklarasikan variabel landmarks sebagai array dari objek Landmark dan
- menginisialisasinya dengan hasil dari pemanggilan fungsi load dengan argumen
- "landmarkData.json". Fungsi ini bertanggung jawab untuk memuat file JSON dan
- mem-parse-nya menjadi tipe data yang sesuai. */
-var landmarks: [Landmark] = load("landmarkData.json")
+final class ModelData: ObservableObject {
+    /* Mendeklarasikan variabel landmarks sebagai array dari objek Landmark dan
+     menginisialisasinya dengan hasil dari pemanggilan fungsi load dengan argumen
+     "landmarkData.json". Fungsi ini bertanggung jawab untuk memuat file JSON dan
+     mem-parse-nya menjadi tipe data yang sesuai. */
+    @Published var landmarks: [Landmark] = load("landmarkData.json")
+    
+}
 
 /* Mendeklarasikan fungsi load yang mengambil argumen filename dengan tipe String
  dan mengembalikan nilai bertipe T, yang harus bisa didekode dengan menggunakan
