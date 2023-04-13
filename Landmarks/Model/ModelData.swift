@@ -14,6 +14,7 @@ final class ModelData: ObservableObject {
      "landmarkData.json". Fungsi ini bertanggung jawab untuk memuat file JSON dan
      mem-parse-nya menjadi tipe data yang sesuai. */
     @Published var landmarks: [Landmark] = load("landmarkData.json")
+    var hikes: [Hike] = load("hikeData.json")
     
 }
 
