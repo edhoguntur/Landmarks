@@ -15,6 +15,7 @@ final class ModelData: ObservableObject {
      mem-parse-nya menjadi tipe data yang sesuai. */
     @Published var landmarks: [Landmark] = load("landmarkData.json")
     var hikes: [Hike] = load("hikeData.json")
+    @Published var profile = Profile.default
     
     var features: [Landmark] {
         landmarks.filter { $0.isFeatured }
